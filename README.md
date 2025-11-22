@@ -37,4 +37,7 @@ Bu projede **Hugging Face** üzerinden ücretsiz olarak sunulan şu model kullan
 Bu projenin geliştirilme sürecinde kodlama asistanı olarak **Cursor AI** ve **Gemini** kullanılmıştır.
 
 ---
-*Geliştirici: [Senin Adın]*
+*Geliştirici: Zafer ÇAKIR
+
+https://github.com/user-attachments/assets/081ad72b-3351-4369-8ffa-ecc8d235e41c
+
