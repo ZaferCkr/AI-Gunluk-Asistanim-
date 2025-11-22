@@ -34,7 +34,7 @@ Bu projede **Hugging Face** üzerinden ücretsiz olarak sunulan şu model kullan
 * **Model:** `cardiffnlp/twitter-roberta-base-sentiment`
 
 ## ℹ️ Şeffaflık Beyanı
-Bu projenin geliştirilme sürecinde kodlama asistanı olarak **Cursor AI** ve **Gemini** kullanılmıştır.
+Bu projenin geliştirilme sürecinde kodlama asistanı olarak **Cursor AI** kullanılmıştır.
 
 ---
 *Geliştirici: Zafer ÇAKIR
