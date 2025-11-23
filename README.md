@@ -41,3 +41,7 @@ Bu projenin geliştirilme sürecinde kodlama asistanı olarak **Cursor AI** kull
 
 
 
+https://github.com/user-attachments/assets/4e53d38a-aab2-435f-b13f-8c1107cdaebc
+
+
+
